@@ -1,17 +1,17 @@
 /* Custom Fonts */
 @font-face {
   font-family: "Franchise";
-  src: url(/font/franchise/Franchise.ttf);
+  src: url(font/franchise/Franchise.ttf);
 }
 
 @font-face {
   font-family: "Arcane";
-  src: url(/font/arcane/ArcaneNine.otf);
+  src: url(font/arcane/ArcaneNine.otf);
 }
 
 @font-face {
   font-family: "Horrify";
-  src: url(/font/bloodlust/Bloodlust.ttf);
+  src: url(font/bloodlust/Bloodlust.ttf);
 }
 /* Colors and fonts */
 body {
